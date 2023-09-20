@@ -1,1 +1,1 @@
-# Java Core Banking System
+# Java Core Banking Solution
